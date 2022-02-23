@@ -1,0 +1,15 @@
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\obj\Debug\net6.0\Task_042_more than zero.csproj.AssemblyReference.cache
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\obj\Debug\net6.0\Task_042_more than zero.GeneratedMSBuildEditorConfig.editorconfig
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\obj\Debug\net6.0\Task_042_more than zero.AssemblyInfoInputs.cache
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\obj\Debug\net6.0\Task_042_more than zero.AssemblyInfo.cs
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\obj\Debug\net6.0\Task_042_more than zero.csproj.CoreCompileInputs.cache
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\bin\Debug\net6.0\Task_042_more than zero.exe
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\bin\Debug\net6.0\Task_042_more than zero.deps.json
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\bin\Debug\net6.0\Task_042_more than zero.runtimeconfig.json
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\bin\Debug\net6.0\Task_042_more than zero.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\bin\Debug\net6.0\ref\Task_042_more than zero.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\bin\Debug\net6.0\Task_042_more than zero.pdb
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\obj\Debug\net6.0\Task_042_more than zero.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\obj\Debug\net6.0\ref\Task_042_more than zero.dll
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\obj\Debug\net6.0\Task_042_more than zero.pdb
+\\andrey\Users\admin\Desktop\ОБЩАЯ ПАПКА\С#\C#_Homework_06\Task_042_more than zero\obj\Debug\net6.0\Task_042_more than zero.genruntimeconfig.cache
